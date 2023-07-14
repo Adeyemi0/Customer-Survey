@@ -12,3 +12,4 @@ The issues faced are as follows:
 The company would like your help to surmount the challenges listed above using Microsoft Power BI to enable us easily to share with relevant stakeholders.
 
 
+![Model!]()
