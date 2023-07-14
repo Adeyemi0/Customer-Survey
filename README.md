@@ -1,3 +1,5 @@
+![](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/feedback.jpg)
+
 ## Introduction
 CS Associates is a consulting firm in the Customer Services Industry.
 We have carried out a banking customer service survey to better understand customer retention.
