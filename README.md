@@ -11,7 +11,7 @@ The issues faced are as follows:
 2.	The tool did not provide any meaningful report on the main surveyed opinion (Ranking reasons why customers may want to stop using their bankers).
 
 ## Requirement
-The company would like your help to surmount the challenges listed above using Microsoft Power BI to enable us easily to share with relevant stakeholders.
+The company needs help to surmount the challenges listed above using Microsoft Power BI to enable us easily to share with relevant stakeholders.
 
 ## Power BI Concept Applied
 1. Power Query: Data Transformation/Cleaning
