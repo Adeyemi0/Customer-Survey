@@ -25,5 +25,8 @@ The data were transformed with the Power Query editor in Power BI. Some of the s
 6. A conditional column Scale was added using the Ranking column values 1,2,3,4,5 which were renamed Most Likely, Highly Likely, Likely, Fairly Likely, and Least Likely respectively. 
 7. The data was loaded into Power BI and a data modeling operation was performed as shown below
 
-   
-![Model!]()
+![Model!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/cus%20data%20model%20.png)
+
+The dashboard image is below or view it live here
+![dashboard!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/cus%20data%20model%20.png)
+
