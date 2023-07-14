@@ -14,12 +14,16 @@ The company would like your help to surmount the challenges listed above using M
 ## Power BI Concept Applied
 1. Power Query: Data Transformation/Cleaning
 2. Data Modelling: One to Many
-3. Created a tooltip (how often customers experience downtime using their branch) 
 
 ## Data Transformation
 The data were transformed with the Power Query editor in Power BI. Some of the steps applied include:
 1. Making first rows as headers
 2. Added an index column and renamed it ResponseID
-3. The column "Rank possible reasons you may stop using your banker" was split by the delimiter ","
+3. Created a new query named "Responses" consisting of the ResponseID and Rank possible reasons you may stop using your banker
+4. The column "Rank possible reasons you may stop using your banker" was split by the delimiter ","
+5. I unpivot the resulting columns from the above step which were renamed "Trigger and Ranking".
+6. A conditional column Scale was added using the Ranking column values 1,2,3,4,5 which were renamed Most Likely, Highly Likely, Likely, Fairly Likely, and Least Likely respectively. 
+7. The data was loaded into Power BI and a data modeling operation was performed as shown below
 
+   
 ![Model!]()
