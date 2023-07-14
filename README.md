@@ -2,8 +2,8 @@
 
 ## Introduction
 CS Associates is a consulting firm in the Customer Services Industry.
-We have carried out a banking customer service survey to better understand customer retention.
-Our survey tool has provided us with a basic dashboard on the demography of our respondents. But we are constrained in getting the details and insights we would like to create a comprehensive report.
+They have carried out a banking customer service survey to better understand customer retention.
+Their survey tool has provided us with a basic dashboard on the demography of their respondents. But they are constrained in getting the details and insights they would like to create a comprehensive report.
 
 ## Challenges
 The issues faced are as follows:
