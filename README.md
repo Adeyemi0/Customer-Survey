@@ -11,5 +11,15 @@ The issues faced are as follows:
 ## Requirement
 The company would like your help to surmount the challenges listed above using Microsoft Power BI to enable us easily to share with relevant stakeholders.
 
+## Power BI Concept Applied
+1. Power Query: Data Transformation/Cleaning
+2. Data Modelling: One to Many
+3. Created a tooltip (how often customers experience downtime using their branch) 
+
+## Data Transformation
+The data were transformed with the Power Query editor in Power BI. Some of the steps applied include:
+1. Making first rows as headers
+2. Added an index column and renamed it ResponseID
+3. The column "Rank possible reasons you may stop using your banker" was split by the delimiter ","
 
 ![Model!]()
