@@ -29,7 +29,7 @@ The data were transformed with the Power Query editor in Power BI. Some of the s
 
 ![Model!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/cus%20data%20model%20.png)
 
-The dashboard image is below or view it [live](https://shorturl.at/djFJ1)
+The dashboard image is below or view it live [here](https://shorturl.at/djFJ1)
 ![dashboard!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/survey.png)
 
 ## Insight
