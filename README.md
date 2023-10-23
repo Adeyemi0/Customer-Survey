@@ -7,8 +7,8 @@ Their survey tool has provided us with a basic dashboard on the demography of th
 
 ## Challenges
 The issues faced are as follows:
-1.	The demography dashboard is not interactive for us to glean insights and create the detailed report we need.
-2.	The tool did not provide any meaningful report on the main surveyed opinion (Ranking reasons why customers may want to stop using their bankers).
+1.	The demography dashboard is not interactive for the company to glean insights hence the need to create the detailed report.
+2.	The tool did not provide any meaningful report on the main surveyed opinion (Ranking reasons why customers may want to stop using their banks).
 
 ## Requirement
 The company needs help to surmount the challenges listed above using Microsoft Power BI to enable us easily to share with relevant stakeholders.
