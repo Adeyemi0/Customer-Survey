@@ -1,5 +1,34 @@
 ![](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/feedback.jpg)
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Challenges](#challenges)
+3. [Requirement](#requirement)
+4. [Power BI Concept Applied](#power-bi-concept-applied)
+   - [1. Power Query: Data Transformation/Cleaning](#power-query-data-transformationcleaning)
+   - [2. Data Modelling: One to Many](#data-modelling-one-to-many)
+5. [Data Transformation](#data-transformation)
+   - [Steps Applied](#steps-applied)
+6. [Data Model](#data-model)
+7. [Dashboard](#dashboard)
+   - [View Live Dashboard](#view-live-dashboard)
+8. [Insight](#insight)
+   - [1. Demographics](#1-demographics)
+   - [2. Security Concerns](#2-security-concerns)
+   - [3. Poor Customer Service](#3-poor-customer-service)
+   - [4. ATM Cash-Outs](#4-atm-cash-outs)
+   - [5. Transaction Delays in Branches](#5-transaction-delays-in-branches)
+   - [6. Concerns Over Bad Processes](#6-concerns-over-bad-processes)
+   - [7. Communication Channels](#7-communication-channels)
+10. [Recommendations](#recommendations)
+   - [Product Development](#product-development)
+   - [Customer Support](#customer-support)
+   - [Digital Adoption](#digital-adoption)
+   - [Operational Efficiency](#operational-efficiency)
+   - [Security Messaging](#security-messaging)
+
+
 ## Introduction
 CS Associates is a consulting firm in the Customer Services Industry.
 They have carried out a banking customer service survey to better understand customer retention.
@@ -33,55 +62,31 @@ The dashboard image is below and you calso view it live [here](https://shorturl.
 ![dashboard!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/survey.png)
 
 ## Insight
-Based on the banking customer service survey, the following insights can be observed:
 
-1. Demographics:
-   Gender: The survey respondents were predominantly male, accounting for 58% of the total, while females represented 42%.
-   Age: The majority of respondents fell within the 25-40 age range (57%), followed by 18-24 (23%), 41-56 (16%), and 57 and above (3%).
-   Employment status: The largest portion of respondents were unemployed (73%), followed by employed (14%) and self-employed (13%).
+### 1. Demographics:
+The survey's demographic profile suggests the bank's services appeal predominantly to males and individuals aged 25-40, the prime age group for financial services. A notable insight is that 73% of respondents are unemployed, indicating potential opportunities for financial products aimed at the unemployed or non-traditional income earners. Tailoring offerings like savings plans, lower-fee accounts, or financial literacy programs to this demographic could improve engagement.
 
-2. Security Concerns:
-   The respondents' likelihood of having security concerns regarding banking services varied. The highest percentage fell under "Fairly Likely" (34.35%), followed 
-   by "Most Likely" (21.37%), "Likely" (17.56%), "Highly Likely" (17.18%), and "Least Likely" (9.54%).
+### 2. Security Concerns:
+A high percentage of respondents (34.35%) are "Fairly Likely" to have security concerns, while 56.11% range from "Likely" to "Most Likely." This reflects a need for improved communication and transparency about the bank’s security measures. Addressing these concerns through stronger messaging about cybersecurity could enhance trust and retention.
 
-3. Poor Customer Services:
-   A significant number of respondents expressed concerns about poor customer services. The highest percentage fell under "Highly Likely" (35.88%), followed by 
-   "Most Likely" (30.15%), "Likely" (23.66%), "Fairly Likely" (6.87%), and "Least Likely" (3.44%).
+### 3. Poor Customer Service:
+Concerns around poor customer service are prominent, with 35.88% reporting it as "Highly Likely." The bank should prioritize enhancing customer support, possibly by improving response times, employee training, or adopting a more robust customer service infrastructure such as AI-driven support systems to mitigate dissatisfaction.
 
-4. Frequent Cash out at ATMs:
-   The likelihood of respondents frequently cashing out at ATMs varied, with the majority falling under "Least Likely" (72.14%). The other categories include 
-   "Fairly Likely" (14.50%), "Highly Likely" (5.73%), "Likely" (5.73%), and "Most Likely" (1.91%).
+### 4. ATM Cash-Outs:
+A significant 72.14% are "Least Likely" to frequently use ATMs, suggesting a shift towards cashless transactions or digital banking methods. This could indicate an opportunity to expand digital wallet services or incentivize online and mobile banking usage, which align with customer preferences.
 
-5. Delays in transaction completion in branches:
-   Respondents' experiences with delays in transaction completion in branches ranged from "Most Likely" (26.72%) to "Least Likely" (10.69%). The other categories 
-   were "Likely" (22.90%), "Fairly Likely" (24.81%), and "Highly Likely" (14.89%).
+### 5. Transaction Delays in Branches:
+With 26.72% of respondents citing transaction delays as "Most Likely," inefficiencies in branch operations seem to be a pain point. Streamlining in-branch processes, introducing appointment scheduling systems, or digital alternatives could reduce wait times and enhance customer experience.
 
-6. Bad Processes:
-   The survey revealed that respondents were concerned about bad processes. The highest percentage fell under "Likely" (30.15%), followed by "Highly Likely" 
-   (26.34%), "Fairly Likely" (19.47%), "Most Likely" (19.85%), and "Least Likely" (4.20%).
+### 6. Concerns Over Bad Processes:
+The majority (30.15%) are concerned about inefficient banking processes. An opportunity exists for the bank to focus on process reengineering to streamline customer journeys, making banking simpler and more intuitive, which could directly reduce customer frustration and improve satisfaction.
 
-7. Communication Channels:
-   Branch visits were most popular among respondents aged 25-40 (60.23%) and least popular among those aged 57 and above (4.55%).
-   Email was commonly used by respondents aged 25-40 (60%) and least used by those aged 57 and above (2.50%).
-   Internet banking was preferred by respondents aged 25-40 (45.83%) and 41-56 (29.17%) and less preferred by those aged 57 and above (4.17%).
-   Mobile apps were popular among respondents aged 25-40 (66.67%) and least used by those aged 18-24 (9.52%).
-   Phone calls were utilized by respondents aged 25-40 (50%) and least used by those aged 57 and above (6%).
-   Social media was preferred by respondents aged 25-40 (64.52%) and least preferred by those aged 41-56 (6.45%).
-   Virtual assistant/chatbot usage was higher among respondents aged 41-56 (50%) and 25-40 (37.50%), and lower among those aged 18-24 (12.50%).
+### 7. Communication Channels:
+Branch visits, email, internet banking, and mobile apps are heavily used by the 25-40 age group. However, the 57+ age group shows minimal use across all digital channels, highlighting a digital divide. This suggests potential value in targeted campaigns for older customers, promoting digital literacy and usage of internet banking or mobile apps. Additionally, improving virtual assistant/chatbot services for the 41-56 age group could enhance their interaction with the bank's services.
 
-## Recommendations
-
-1. Security Concerns: Addressing the security concerns of customers should be a priority. Banks should invest in robust security measures, educate customers about security practices, and provide clear communication regarding the safety of their services.
-
-2. Poor Customer Services: The high percentage of respondents expressing concerns about poor customer services indicates the need for improvements in this area. Banks should focus on enhancing customer service training for their staff, implementing efficient complaint resolution processes, and actively seeking feedback from customers to identify and address any service gaps.
-
-3. Frequent Cash out at ATMs: The majority of respondents indicated that they were unlikely to frequently cash out at ATMs. Banks could consider analyzing the reasons behind this behavior and evaluate options such as reducing transaction fees, expanding the availability of services beyond ATMs, or promoting alternative channels for cash withdrawals.
-
-4. Delays in transaction completion in branches: The survey highlights the issue of delays in transaction completion at branches. Banks should focus on streamlining their processes, improving staff training, and utilizing technology to reduce wait times and provide faster service to customers.
-
-5. Bad Processes: The dissatisfaction expressed by respondents regarding bad processes suggests the need for process improvements within the banking system. Banks should conduct process audits, identify areas of inefficiency or complexity, and implement changes to streamline processes, enhance transparency, and improve overall customer experience.
-
-6. Communication Channels: Understanding the preferred communication channels of different age groups can help banks tailor their services accordingly. They should invest in digital channels, such as mobile apps and internet banking, which are popular among younger customers. However, it is important to provide a range of options to cater to the preferences of different age groups and ensure all channels are user-friendly and efficient.
-
-7. Overall Customer Retention: To improve customer retention, banks should prioritize addressing security concerns, enhancing customer service, optimizing processes, and providing a seamless and personalized banking experience across multiple communication channels. Regularly monitoring customer feedback, conducting surveys, and taking prompt action on customer suggestions and complaints will contribute to building trust and loyalty among customers.
-
+### Recommendations:
+- **Product Development**: Develop financial products for the unemployed demographic (e.g., no-fee accounts, micro-loans).
+- **Customer Support**: Implement AI-driven customer support solutions to address customer service concerns.
+- **Digital Adoption**: Promote cashless solutions and improve the digital banking experience, especially for older customers.
+- **Operational Efficiency**: Streamline branch processes to reduce transaction delays.
+- **Security Messaging**: Enhance communication regarding banking security to reduce customer concerns.
