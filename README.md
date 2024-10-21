@@ -58,7 +58,7 @@ The data were transformed with the Power Query editor in Power BI. Some of the s
 
 ![Model!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/cus%20data%20model%20.png)
 
-The dashboard image is below and you calso view it live [here](https://shorturl.at/djFJ1)
+The dashboard image is below and you calso view it live [here](https://app.powerbi.com/view?r=eyJrIjoiMDhiMDhmNTEtODk3NS00NWY5LWJhNzgtYmNiMTdiYzg5YmQ3IiwidCI6IjQyOWYxMWVhLWM3NmQtNDczMS05M2M5LWM0MDZiNGYzMmE1YSJ9)
 ![dashboard!](https://github.com/Adeyemi0/Customer-Survey/blob/main/pictures/survey.png)
 
 ## Insight
